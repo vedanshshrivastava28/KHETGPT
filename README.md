@@ -71,8 +71,10 @@ AI-DRIVEN-FARMINGA/
 Clone this repo:
 
 
-git clone https://github.com/your-username/AI-DRIVEN-FARMINGA.git
+git clone https://github.com/vedanshshrivastava28/AI-DRIVEN-FARMINGA.git
+
 cd AI-DRIVEN-FARMINGA
+
 Install requirements:
 
 pip install -r requirements.txt
