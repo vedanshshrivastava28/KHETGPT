@@ -67,11 +67,8 @@ AI-DRIVEN-FARMINGA/
 ├── flowchart.gv
 └── README.md
 
-✅ How to Run
-Clone this repo:
+✅ How to Run:
 
-
-git clone https://github.com/vedanshshrivastava28/AI-DRIVEN-FARMINGA.git
 
 cd AI-DRIVEN-FARMINGA
 
